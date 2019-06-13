@@ -12,7 +12,6 @@ public class ApiResponseConstants {
 
     //send
     public static final String SENDDATAOPERATERCONFIGUREREPONSE = "senddataoperaterconfigureresponse";
-
     public static final String SENDVMOPERATERCONFIGUREREPONSE = "sendvmoperaterconfigureresponse";
 
     public static final String SENDVMHOSTSERVERRESPONSE = "sendvmhostserverresponse";
